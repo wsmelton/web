@@ -6,6 +6,8 @@ whitelist:
 plugins:
   - jekyll-redirect-from
 
+layout: redirected
+sitemap: false
 permalink: /test
 redirect_to:
   - https://cnn.com
