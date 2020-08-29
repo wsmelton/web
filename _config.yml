@@ -8,6 +8,7 @@ plugins:
 
 layout: redirected
 sitemap: false
-permalink: /test
-redirect_to:
-  - https://cnn.com
+
+redirect_from:
+  - /test
+permalink: https://cnn.com
