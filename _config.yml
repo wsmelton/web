@@ -9,7 +9,9 @@ plugins:
 layout: redirected
 sitemap: false
 
+---
 title: Jekyll Redirect 301
 redirect_to:
   - http://cnn.com
 permalink: /jekyll-redirect/
+---
