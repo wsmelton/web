@@ -5,3 +5,7 @@ whitelist:
   - jekyll-redirect-from
 plugins:
   - jekyll-redirect-from
+
+permalink: /test
+redirect_to:
+  - https://cnn.com
